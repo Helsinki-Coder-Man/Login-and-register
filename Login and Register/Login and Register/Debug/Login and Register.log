@@ -1,0 +1,6 @@
+﻿  Login and Register.cpp
+C:\Users\noaho\source\repos\Login and Register\Login and Register\Login and Register.cpp(16,13): warning C4101: 'p': unreferenced local variable
+C:\Users\noaho\source\repos\Login and Register\Login and Register\Login and Register.cpp(16,16): warning C4101: 'u': unreferenced local variable
+C:\Users\noaho\source\repos\Login and Register\Login and Register\Login and Register.cpp(48,1): warning C4102: 'a': unreferenced label
+C:\Users\noaho\source\repos\Login and Register\Login and Register\Login and Register.cpp(46,12): warning C4101: 'a': unreferenced local variable
+  Login and Register.vcxproj -> C:\Users\noaho\source\repos\Login and Register\Debug\Login and Register.exe
